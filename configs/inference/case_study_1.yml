@@ -1,4 +1,4 @@
-checkpoint: ./trained_models/DDAffinity.pt
+checkpoint: /content/drive/MyDrive/SKEMPI2_cache/DDAffinity.pt
 early_stoppingdir: ./early_stopping
 model:
   encoder:
